@@ -6,6 +6,9 @@
 ## Spring
 - AOP 용어 정리
 
+## JPA
+- 기본 키 생성 전략
+
 ## DB
 - MSSQL, ORACLE에서 날짜 예외처리하기
 - 뷰(VIEW)
