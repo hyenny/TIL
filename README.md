@@ -2,6 +2,7 @@
 
 ## Java
 - 파일입출력
+- Lombok 정리
 
 ## Spring
 - AOP 용어 정리
