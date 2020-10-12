@@ -3,9 +3,11 @@
 ## Java
 - 파일입출력
 - Lombok 정리
+- JUnit5 시작하기
 
 ## Spring
 - AOP 용어 정리
+- Spring Boot 테스트
 
 ## JPA
 - 기본 키 생성 전략
