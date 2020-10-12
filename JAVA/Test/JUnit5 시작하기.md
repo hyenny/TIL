@@ -7,8 +7,8 @@
 
 **JUnit 5 = JUnit Platform + JUnit Jupiter + JUnit Vintage**
 
-Platform : 테스트를 실행해주는 런처 제공. TestEngine API 제공
-Jupiter : TestEngine API 구현체로 JUnit5를 제공
+Platform : 테스트를 실행해주는 런처 제공. TestEngine API 제공      
+Jupiter : TestEngine API 구현체로 JUnit5를 제공      
 Vintage : JUnit 4와 3을 지원하는 TestEngine 구현체
 
 ## JUnit5 시작하기
