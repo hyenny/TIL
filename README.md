@@ -4,6 +4,8 @@
 - 파일입출력
 - Lombok 정리
 - JUnit5 시작하기
+- HTML Entities escape하기
+- Log4j 정리
 
 ## Spring
 - AOP 용어 정리
