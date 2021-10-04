@@ -8,8 +8,9 @@
 - Log4j 정리
 
 ## Spring
-- AOP 용어 정리
+- AOP 용어 정리0
 - Spring Boot 테스트
+- Spring에 다국어 적용하기
 
 ## JPA
 - 기본 키 생성 전략
